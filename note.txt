@@ -1,0 +1,50 @@
+color combination
+#000000 black
+#21B573 Green
+#FD511A Orange
+
+poppins 400, 500, 700 common font-family: 'Poppins', sans-serif;
+roboto 400, font-family: 'Roboto', sans-serif;
+
+
+psd to html responsive with bootstrap
+
+html, css, bootstrap, js/ jq
+
+pt sans regular and bold
+
+color
+bal #010101
+ash #898989
+yel #fcdb00
+
+    
+menu ........   
+font
+      xxl-xl-lg          md     sm-col
+         22              22     
+
+
+    
+slider ........   
+
+      xxl-xl-lg          md     sm-col
+
+h1     32                 32      25
+h2      20              20        18
+p      16                16       16/15
+icon   42                42        35
+pb     100              100         60
+
+
+padding..........
+      100/120            80/90       50/60/70px
+
+mt    70                50             30
+
+
+     xxl-xl-lg         md          sm-col
+
+
+header ......
+t-b --  20             20         
